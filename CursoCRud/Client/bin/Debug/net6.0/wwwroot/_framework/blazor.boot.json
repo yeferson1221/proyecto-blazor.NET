@@ -196,15 +196,15 @@
       "mscorlib.dll": "sha256-AtjrcSyN9gleNjzHPZRVJVh6sNEX1FxRBHN\/ZN6Yt3Q=",
       "netstandard.dll": "sha256-\/CRbZZ6en3BoMsR5fhsJCTE9TYhik+E7KU+O9cBdC9c=",
       "System.Private.CoreLib.dll": "sha256-ftEeXsH4HQ3J6VlVJuI3mbfqZxGyNtYVxuIQD\/8waHw=",
-      "CursoCRud.Shared.dll": "sha256-MwY1muRRl2iwzwI9jHvViQULW+\/NcVKMIf5w16lO5bQ=",
-      "CursoCRud.Client.dll": "sha256-6fPCkUWyDvS8AmaWkatq2N2ddX05JCxYfLL3PEFzcVY="
+      "CursoCRud.Shared.dll": "sha256-vU81QzjP\/xsQkWU9HBB0ey\/2lofITh5TJBPbKeOyxS0=",
+      "CursoCRud.Client.dll": "sha256-tVG6\/dn+W0X\/jq3sZIyWHsB7wnpQy5nGoSUl6gkX\/JM="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "CursoCRud.Shared.pdb": "sha256-Qa3IwE3EFL79fljDZ0KrN4WFaxoyPK4JeZh+Sc964No=",
-      "CursoCRud.Client.pdb": "sha256-IWoPuKCeHbGUBdwLLP6nz6EdEXRQDnaa2wFDsbD2RrI="
+      "CursoCRud.Shared.pdb": "sha256-CC5K2D7UJD81TW6mIzeoPHejx1oI4s2ms2Uie4pHI0c=",
+      "CursoCRud.Client.pdb": "sha256-WKuhm\/kst\/6D2BUlYhDCgA07pqDIumgkNuXV\/NOADBg="
     },
     "runtime": {
       "dotnet.6.0.12.vz70wzo10s.js": "sha256-qD0QxS71qYTQZMj+JDk0IXr28ewa+pSDzShFKSNkQ+0=",
