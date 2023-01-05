@@ -1,0 +1,12 @@
+C:\Users\yeferson.valencia\source\repos\APINETCORE\NetCoreApi\TrabajoLogin\CursoCRud\CursoCRud\Shared\bin\Debug\net6.0\CursoCRud.Shared.deps.json
+C:\Users\yeferson.valencia\source\repos\APINETCORE\NetCoreApi\TrabajoLogin\CursoCRud\CursoCRud\Shared\bin\Debug\net6.0\CursoCRud.Shared.dll
+C:\Users\yeferson.valencia\source\repos\APINETCORE\NetCoreApi\TrabajoLogin\CursoCRud\CursoCRud\Shared\bin\Debug\net6.0\CursoCRud.Shared.pdb
+C:\Users\yeferson.valencia\source\repos\APINETCORE\NetCoreApi\TrabajoLogin\CursoCRud\CursoCRud\Shared\obj\Debug\net6.0\CursoCRud.Shared.csproj.AssemblyReference.cache
+C:\Users\yeferson.valencia\source\repos\APINETCORE\NetCoreApi\TrabajoLogin\CursoCRud\CursoCRud\Shared\obj\Debug\net6.0\CursoCRud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeferson.valencia\source\repos\APINETCORE\NetCoreApi\TrabajoLogin\CursoCRud\CursoCRud\Shared\obj\Debug\net6.0\CursoCRud.Shared.AssemblyInfoInputs.cache
+C:\Users\yeferson.valencia\source\repos\APINETCORE\NetCoreApi\TrabajoLogin\CursoCRud\CursoCRud\Shared\obj\Debug\net6.0\CursoCRud.Shared.AssemblyInfo.cs
+C:\Users\yeferson.valencia\source\repos\APINETCORE\NetCoreApi\TrabajoLogin\CursoCRud\CursoCRud\Shared\obj\Debug\net6.0\CursoCRud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\yeferson.valencia\source\repos\APINETCORE\NetCoreApi\TrabajoLogin\CursoCRud\CursoCRud\Shared\obj\Debug\net6.0\CursoCRud.Shared.dll
+C:\Users\yeferson.valencia\source\repos\APINETCORE\NetCoreApi\TrabajoLogin\CursoCRud\CursoCRud\Shared\obj\Debug\net6.0\refint\CursoCRud.Shared.dll
+C:\Users\yeferson.valencia\source\repos\APINETCORE\NetCoreApi\TrabajoLogin\CursoCRud\CursoCRud\Shared\obj\Debug\net6.0\CursoCRud.Shared.pdb
+C:\Users\yeferson.valencia\source\repos\APINETCORE\NetCoreApi\TrabajoLogin\CursoCRud\CursoCRud\Shared\obj\Debug\net6.0\ref\CursoCRud.Shared.dll
